@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.stopwatch.SettingsDialogFragmentTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-07-25T11:30:48" hostname="ax-lap" time="13.072">
+  <properties/>
+  <testcase name="testShouldCheckColorsOnRestart" classname="org.hyperskill.stopwatch.SettingsDialogFragmentTest" time="4.108"/>
+  <testcase name="testShouldCheckSettingsButtonEnable" classname="org.hyperskill.stopwatch.SettingsDialogFragmentTest" time="0.515"/>
+  <testcase name="testShouldCheckLimitIsSetOnOk" classname="org.hyperskill.stopwatch.SettingsDialogFragmentTest" time="3.658"/>
+  <testcase name="testShouldCheckLimitIsNotSetOnCancel" classname="org.hyperskill.stopwatch.SettingsDialogFragmentTest" time="3.703"/>
+  <testcase name="testShouldCheckSettingsButtonExist" classname="org.hyperskill.stopwatch.SettingsDialogFragmentTest" time="0.203"/>
+  <testcase name="testDialogButtonsShouldContainText" classname="org.hyperskill.stopwatch.SettingsDialogFragmentTest" time="0.3"/>
+  <testcase name="testShouldCheckSettingsButtonText" classname="org.hyperskill.stopwatch.SettingsDialogFragmentTest" time="0.218"/>
+  <testcase name="testShouldShowAlertDialogOnSettingsButtonClick" classname="org.hyperskill.stopwatch.SettingsDialogFragmentTest" time="0.365"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

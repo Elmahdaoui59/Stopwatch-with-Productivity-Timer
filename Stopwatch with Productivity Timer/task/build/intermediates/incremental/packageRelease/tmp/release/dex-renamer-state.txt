@@ -1,0 +1,4 @@
+#Mon Jul 25 12:29:21 WEST 2022
+base.0=/home/ax/AndroidStudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

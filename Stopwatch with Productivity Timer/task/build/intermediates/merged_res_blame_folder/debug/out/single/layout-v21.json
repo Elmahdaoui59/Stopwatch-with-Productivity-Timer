@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ax/AndroidStudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout-v21/dialog_main.xml",
+        "source": "/home/ax/AndroidStudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/res/layout-v21/dialog_main.xml"
+    },
+    {
+        "merged": "/home/ax/AndroidStudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout-v21/activity_main.xml",
+        "source": "/home/ax/AndroidStudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/res/layout-v21/activity_main.xml"
+    }
+]
